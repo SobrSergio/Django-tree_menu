@@ -14,10 +14,15 @@
    ```
 3. **Примените миграции и создайте суперпользователя:**
    ```sh
+   cd menu_tree
    python manage.py migrate
    python manage.py createsuperuser
    ```
-3. **Запустите сервер:**
+
+4. **Запустите сервер:**
    ```sh
    python manage.py runserver
    ```
+
+Заполните базу данных через меню админов ("/admin") для проверки работоспособности меню.
+
