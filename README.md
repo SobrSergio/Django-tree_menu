@@ -3,8 +3,8 @@
 ## Установка
 1. **Клонируйте репозиторий:**
    ```sh
-   git clone https://github.com/yourusername/django-project.git
-   cd django-project
+   git clone https://github.com/SobrSergio/Django-tree_menu.git
+   cd Django-tree_menu
    ```
 2. **Создайте виртуальное окружение:**
    ```sh
